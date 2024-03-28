@@ -5,8 +5,7 @@ import com.example.mvpwithkotlin.model.Wisdom
 class FakeApiService {
     val ahmed: String = ""
     val ahmedd: String = ""
-    val ahmeddd: String = ""
-    val ahmedddd: String = ""
+
     private val wisdom_txt = listOf<Wisdom>(
         Wisdom("wisdom one", "27-3-2024"),
         Wisdom("wisdom two", "28-3-2024"),
